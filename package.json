@@ -1,0 +1,7 @@
+{
+  "name": "nova-security-headers",
+  "version": "1.0.0",
+  "dependencies": {
+    "helmet": "^7.0.0"
+  }
+}
